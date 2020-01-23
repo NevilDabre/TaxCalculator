@@ -1,2 +1,0 @@
-# TaxCalculator
-Created with CodeSandbox
